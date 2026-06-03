@@ -1,6 +1,5 @@
 # Rekap Sesi Belajar — Muhammad Zaki Zein
 **Network Engineer Roadmap — Linux Fundamentals**
-Tujuan: Politeknik Negeri Jakarta — Teknik Multimedia & Jaringan
 github.com/zkizen · zakizen415@gmail.com
 
 ---
@@ -11,8 +10,6 @@ github.com/zkizen · zakizen415@gmail.com
 |---|---|
 | Nama | Muhammad Zaki Zein (@zkizen) |
 | Sekolah | SMK Al-Muhtadin Depok — Jurusan TJKT |
-| PKL | PT Intikom Berlian Mustika (Jul-Des 2025) — Project Technician |
-| Tujuan | Politeknik Negeri Jakarta — Teknik Multimedia & Jaringan |
 | GitHub | github.com/zkizen |
 | Email | zakizen415@gmail.com |
 
@@ -288,20 +285,6 @@ Setelah setup: `ssh local` = `ssh zaki@localhost` ✅
 3. **Scapy dasar** — packet crafting & analysis
 4. **SNMP + NetFlow** — monitoring protocol
 5. **Grafana + InfluxDB** — visualisasi metrics jaringan
-
----
-
-## 7. Dosen TMJ PNJ yang Relevan
-
-| Dosen | Bidang | Relevansi |
-|---|---|---|
-| Deflana Arnaidy, S.Tp., M.SI | Cyber Security, Network Security | ⭐ Sangat relevan |
-| Ayu Roryjda Zain, S.ST., M.T | ICT, Jaringan Komputer, Keamanan Jaringan | ⭐ Sangat relevan |
-| Asep Kurniawan, S.Pd., M.Kom | Keamanan Jaringan dan IoT | ⭐ Sangat relevan |
-| Ik Muhamad Malik Matin, S.Kom., M.T | Cyber Security, Intelligence System | ⭐ Sangat relevan |
-| Dr. Prihatini Oktaviyarti | IoT, Machine Learning | Relevan |
-| Maria Agustin, S.Kom., M.Kom | Internet of Things | Relevan |
-| Chandra Wirawan, S.Kom., M.Kom | Cryptography, IoT, Data Mining | Relevan |
 
 ---
 
